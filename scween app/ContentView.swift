@@ -12,7 +12,7 @@ struct ContentView: View {
         ZStack {
             Color.blue
                 .ignoresSafeArea()
-            Text("Pratheesh")
+            Text("Pratheesh, Katie")
                 .font(.largeTitle)
             
         }
